@@ -11,7 +11,7 @@
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"27
 
 - :speech_balloon: &nbsp;I like to talk about **Flutter**,**AI** and **Web 3.0**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help**
+- :mailbox: &nbsp;Ask me about anything,I am happy to **help**
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/jai-ganesh-h-588a48321/)
 - 📫 How to reach me **mohanapriya.rajasekaran123@gmail.com**
 
