@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋 I'm Jaiganesh</h1>
-<h3 align="center">Aspiring Developer | Engineering Student | Web 3.0 Enthusiast</h3>
+<h1 align="center">Hi there 👋 I'm Mohana Priya</h1>
+<h3 align="center">Frontend Developer | Engineering Student | Open Source Contribute </h3>
 <h3 align="center">Love learning and Innovating new things! 🚀</h3>
 
 ---
@@ -13,7 +13,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Flutter**,**AI** and **Web 3.0**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/jai-ganesh-h-588a48321/)
-- 📫 How to reach me **jaiganeshh574@gmail.com**
+- 📫 How to reach me **mohanapriya.rajasekaran123@gmail.com**
 
 
 
