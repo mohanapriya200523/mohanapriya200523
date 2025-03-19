@@ -14,6 +14,8 @@
 - :mailbox: &nbsp;Ask me about anything,I am happy to **help**
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/jai-ganesh-h-588a48321/)
 - 📫 How to reach me **mohanapriya.rajasekaran123@gmail.com**
+- Linkedin - **https://www.linkedin.com/in/mohana-priya-516687331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+- Instragram - **https://www.instagram.com/mohanapriya_rajasekaran23?igsh=MWxuMHM4NG5vcHlkcQ==** 
 
 
 
