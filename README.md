@@ -4,7 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Full-Stack+Developer;Mobile+App+Developer;Web+3.0+Enthusiast;Software+Engineer;Aspiring+Developer;Engineering+Student" alt="Typing SVG" /></a>
 </div>
 
-<h3 align="center">Passionate for innovation, A boy trying to be Plus Ultra!!</h3>
+<h3 align="center">Passionate for innovation!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohanapriya200523&label=Profile%20views&color=0e75b6&style=flat" alt="mohanapriya200523" /> </p>
 
