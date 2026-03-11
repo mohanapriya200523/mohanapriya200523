@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I ' am Mohana Priya</h1>
+<h1 align="center">Hi 👋, I ' am Mohana Priya R</h1>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Full-Stack+Developer;Mobile+App+Developer;Web+3.0+Enthusiast;Software+Engineer;Aspiring+Developer;Engineering+Student" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Full-Stack+Developer;Aspiring Data Analyst + AIML;Mobile+App+Developer+Enthusiast;Software+Engineer;Aspiring+Developer;Engineering+Student" alt="Typing SVG" /></a>
 </div>
 
-<h3 align="center">Passionate for innovation!</h3>
+<h3 align="center">Passionate about building innovative web applications and AI-based solutions!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohanapriya200523&label=Profile%20views&color=0e75b6&style=flat" alt="mohanapriya200523" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 🏫: &nbsp;I'm Pursuing B.E CSE at JEC"27
 
-- :speech_balloon: &nbsp;I like to talk about **JavaScript** and **Web 3.0**
+- :speech_balloon: &nbsp;I like to talk about **DATA ANALYSIS** and **AIML**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/mohana-priya-516687331)
 - 📫 How to reach me **mohanapriya.rajasekaran123@gmail.com**
@@ -60,56 +60,22 @@ Did you know? I love solving coding challenges and can solve problems faster tha
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#mohanapriya200523">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
-      </a>
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <a href="#mohanapriya200523">
-        <img src="https://reactnative.dev/img/header_logo.svg" width="48" height="48" alt="React Native" />
-      </a>
-      <br>ReactNative
-    </td>
-    <td align="center" width="96">
-      <a href="#mohanapriya200523">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#mohanapriya200523">
+     <a href="#mohanapriya200523">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
       </a>
       <br>React JS
     </td>
-    <td align="center" width="96">
-      <a href="#mohanapriya200523" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td> 
+
   </tr>
   <tr>
-    <td align="center" width="96">
-      <a href="#mohanapriya200523">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-       <td align="center" width="96">
+     <td align="center" width="96">
       <a href="#mohanapriya200523">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" width="48" height="48" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
-     <td align="center" width="96"> 
-      <a href="#mohanapriya200523" >
-        <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" width="48" height="48" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96"> 
+     
+<td align="center" width="96"> 
       <a href="#mohanapriya200523" >
         <img src="https://img.icons8.com/color/452/c-programming.png" width="48" height="48" alt="C" />
       </a>
@@ -121,51 +87,17 @@ Did you know? I love solving coding challenges and can solve problems faster tha
       </a>
       <br>MySQL
     </td>
-    <td align="center" width="96"> 
-      <a href="#mohanapriya200523" >
-       <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>  
-    <td align="center" width="96">
-      <a href="#wordpress">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>   
+    
   </tr>
    <tr>
-      <td align="center" width="96">
-      <a href="#mohanapriya200523">
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
+     
+<td align="center" width="96">
       <a href="#mohanapriya200523" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
-    <td align="center" width="96">
-      <a href="#mohanapriya200523">
-        <img  src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="48" height="48" alt="Solidity" />
-      </a>
-      <br>Solidity
-    </td>
-          <td align="center" width="96"> 
-      <a href="#mohanapriya200523" >
-        <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next JS" />
-      </a>
-      <br>Next JS
-    </td>
-             <td align="center" width="96"> 
-      <a href="#mohanapriya200523" >
-        <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
-      </a>
-      <br>G Cloud
-    </td>
-    <td align="center" width="96">
+<td align="center" width="96">
       <a href="#mohanapriya200523">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="48" height="48" alt="TailWind" />
       </a>
